@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/pratheep-portfolio/static/css/main.ab7136cd.chunk.css",
+    "main.js": "/pratheep-portfolio/static/js/main.b42f1113.chunk.js",
+    "main.js.map": "/pratheep-portfolio/static/js/main.b42f1113.chunk.js.map",
+    "runtime-main.js": "/pratheep-portfolio/static/js/runtime-main.ef3ed5e1.js",
+    "runtime-main.js.map": "/pratheep-portfolio/static/js/runtime-main.ef3ed5e1.js.map",
+    "static/js/2.98ed856d.chunk.js": "/pratheep-portfolio/static/js/2.98ed856d.chunk.js",
+    "static/js/2.98ed856d.chunk.js.map": "/pratheep-portfolio/static/js/2.98ed856d.chunk.js.map",
+    "static/js/3.11c8edc2.chunk.js": "/pratheep-portfolio/static/js/3.11c8edc2.chunk.js",
+    "static/js/3.11c8edc2.chunk.js.map": "/pratheep-portfolio/static/js/3.11c8edc2.chunk.js.map",
+    "index.html": "/pratheep-portfolio/index.html",
+    "static/css/main.ab7136cd.chunk.css.map": "/pratheep-portfolio/static/css/main.ab7136cd.chunk.css.map",
+    "static/js/2.98ed856d.chunk.js.LICENSE.txt": "/pratheep-portfolio/static/js/2.98ed856d.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/pratheep-portfolio/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ef3ed5e1.js",
+    "static/js/2.98ed856d.chunk.js",
+    "static/css/main.ab7136cd.chunk.css",
+    "static/js/main.b42f1113.chunk.js"
+  ]
+}
