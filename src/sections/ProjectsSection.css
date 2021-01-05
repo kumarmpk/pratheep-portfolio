@@ -1,0 +1,23 @@
+.projects-section {
+  padding-bottom: 1rem;
+  background-color: rgba(221, 226, 226, 0.514);
+}
+
+.heading {
+  color: white;
+  padding-left: 1rem;
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+}
+
+.heading1 {
+  padding-left: 1.5rem;
+  padding-top: 0.5rem;
+  padding-bottom: 0.5rem;
+}
+
+.heading2 {
+  padding-left: 2rem;
+  padding-top: 0.5rem;
+  padding-bottom: 0.5rem;
+}

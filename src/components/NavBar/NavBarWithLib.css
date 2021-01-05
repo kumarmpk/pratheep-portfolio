@@ -1,0 +1,25 @@
+.navbar-main {
+  background: linear-gradient(
+    90deg,
+    rgb(110, 94, 254) 0%,
+    rgb(73, 63, 252) 100%
+  );
+  width: 100%;
+}
+
+.nav-links {
+  color: #fff;
+  text-decoration: none;
+  padding: 0.5rem 1rem;
+}
+
+.nav-links:hover {
+  background-color: #fff;
+  text-decoration: none;
+  border-radius: 4px;
+  transition: all 0.2s ease-out;
+}
+
+.nav-links.active {
+  border-bottom: 2px solid #fff;
+}

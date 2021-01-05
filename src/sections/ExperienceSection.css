@@ -1,0 +1,26 @@
+.experience-section {
+  padding-bottom: 1rem;
+  background-color: rgba(221, 226, 226, 0.514);
+}
+
+.heading {
+  color: white;
+  padding-left: 1rem;
+  padding-top: 0.8rem;
+  padding-bottom: 0.8rem;
+}
+
+.mainCard {
+  width: 100%;
+  padding-left: 1rem;
+  margin-bottom: 0.8rem;
+}
+
+.topRow {
+  padding-top: 0.3rem;
+  padding-left: 3rem;
+  padding-right: 2rem;
+  display: flex;
+  align-items: center;
+  width: 100%;
+}

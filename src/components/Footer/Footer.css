@@ -1,0 +1,8 @@
+.footer-main {
+  color: #fff;
+  background: linear-gradient(
+    90deg,
+    rgb(82, 65, 231) 0%,
+    rgb(27, 21, 145) 100%
+  );
+}

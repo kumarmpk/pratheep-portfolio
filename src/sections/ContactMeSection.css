@@ -1,0 +1,6 @@
+.contact-me-section {
+  padding-top: 13rem;
+  overflow-y: scroll;
+  scroll-behavior: smooth;
+  height: 100vh;
+}
