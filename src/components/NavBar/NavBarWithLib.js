@@ -60,7 +60,7 @@ class NavBarWithLib extends Component {
             >
               Projects
             </Link>
-            <Link
+            {/* <Link
               activeClass="active"
               to="contact-me"
               className="nav-links"
@@ -70,7 +70,7 @@ class NavBarWithLib extends Component {
               duration={750}
             >
               Contact Me
-            </Link>
+            </Link> */}
           </Nav>
         </Navbar.Collapse>
       </Navbar>
