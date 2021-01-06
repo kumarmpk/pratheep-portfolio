@@ -18,3 +18,7 @@ export function Asterisk() {
 export function Github() {
   return <Icon.Github size={40} color="white" />;
 }
+
+export function BackButton() {
+  return <Icon.ArrowLeft size={30} />;
+}

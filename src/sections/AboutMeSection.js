@@ -4,7 +4,7 @@ import mypic from "./my pic.jpg";
 import { Row, Container, Col } from "react-bootstrap";
 import linkedin from "./linkedin.png";
 import github from "./github.png";
-import outlook from "./Outlook.jpg";
+// import outlook from "./Outlook.jpg";
 
 class AboutMeSection extends Component {
   state = {
@@ -54,14 +54,14 @@ class AboutMeSection extends Component {
                   src={github}
                 />
               </a>
-              <a href="#contact-me" className="links">
+              {/* <a href="#contact-me" className="links">
                 <img
                   className="social"
                   variant="top"
                   src={outlook}
                   alt="Contact Me"
                 />
-              </a>
+              </a> */}
             </Col>
           </Row>
         </Container>
